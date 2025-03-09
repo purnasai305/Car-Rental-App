@@ -1,0 +1,49 @@
+.motherBox {
+    width: 95%;
+    display: flex;
+    margin: auto;
+    gap: 30px;
+    margin-top: 50px;
+  }
+  
+  .child {
+    border: 1px solid #e1e1e1;
+    width: 80%;
+    height: 40rem;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+  
+  
+  .card1 {
+    width: 95%;
+    margin: auto;
+    display: grid;
+    gap: 20px;
+  }
+  
+  .card2 {
+    width: 95%;
+    margin: auto;
+    display: grid;
+    gap: 20px;
+  }
+  
+  .logout-btn {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .logout-btn button {
+    background-color: #098149;
+    color: white;
+    padding: 10px 20px; 
+    font-size: 16px; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    transition: background-color 0.3s ease;
+  }
+
+  
