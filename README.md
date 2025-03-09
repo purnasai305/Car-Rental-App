@@ -2,7 +2,9 @@
 
 This project is a **car rental application** inspired by **Zoomcar**. The frontend is built with **React.js**, and the backend is developed using **.NET**. It provides a seamless user experience for renting cars, managing bookings, and exploring available vehicles.
 
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/1508ff11-70f3-44cc-939e-a1a276f42f29" />
+![image](https://github.com/user-attachments/assets/63fa282a-581a-431d-81b6-1a7e263e915c)
+![image](https://github.com/user-attachments/assets/9cc3319b-3c09-48de-ba47-d83fdb9f51c0)
+
 
 
 ## Features
