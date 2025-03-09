@@ -1,0 +1,71 @@
+# Visual Studio-specific files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build & Binary Files
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.log
+*.cache
+*.ilk
+*.sbr
+*.swp
+*.tlog
+*.csproj.user
+
+# Packages
+*.nupkg
+*.snupkg
+packages/
+!packages/repositories.config
+
+# NuGet Packages
+project.lock.json
+project.assets.json
+packages.lock.json
+nuget.config
+nuget.exe
+*.nupkg
+*.snupkg
+
+# ASP.NET & Entity Framework
+appsettings.Development.json
+appsettings.Production.json
+appsettings.local.json
+appsettings.json
+secret.json
+Migrations/
+efcache.db
+.env
+
+# Rider & JetBrains-specific
+.idea/
+*.sln.iml
+
+# Log & Debugging
+*.log
+*.tlog
+*.bak
+*.db-shm
+*.db-wal
+*.ldb
+*.sqlite
+
+# Node.js & Frontend (if using React/Angular with .NET)
+node_modules/
+npm-debug.log
+yarn-error.log
+dist/
+build/
+
+# Docker & Kubernetes
+docker-compose.override.yml
+*.dockerfile
+.kube/
+helm/
